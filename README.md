@@ -1,5 +1,5 @@
 # Open Character Creator
-An open, collaborative and evolving 3D avatar creator for the open metaverse.
+An open, collaborative and evolving 3D avatar creator for social vr.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
