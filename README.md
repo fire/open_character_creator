@@ -5,12 +5,7 @@ An open, collaborative and evolving 3D avatar creator for social vr.
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Want to contribute? Please check out the [issues](https://github.com/AtlasFoundation/AvatarCreator/issues), or submit a pull request.
-
-# Quick Start (library)
-```bash
-npm install avatarcreator
-```
+Want to contribute? Please check out the [issues](https://github.com/fire/open_character_creator/issues), or submit a pull request.
 
 # Quick Start
 ```bash
