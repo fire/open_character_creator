@@ -10,8 +10,8 @@ Want to contribute? Please check out the [issues](https://github.com/fire/open_c
 # Quick Start
 ```bash
 # Clone the repo and change directory into it
-git clone https://github.com/AtlasFoundation/AvatarCreator
-cd AvatarCreator
+git clone https://github.com/fire/open_character_creator.git
+cd open_character_creator
 
 # Install dependencies with legacy peer deps flag to ignore React errors
 npm install --legacy-peer-deps
