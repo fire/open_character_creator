@@ -1,4 +1,4 @@
-# Avatar Creator
+# Open Character Creator
 An open, collaborative and evolving 3D avatar creator for the open metaverse.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
