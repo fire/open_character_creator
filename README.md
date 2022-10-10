@@ -1,12 +1,11 @@
-# Avatar Creator
-An open, collaborative and evolving 3D avatar creator for the open metaverse.
+# Open Character Creator
+An open, collaborative and evolving 3D avatar creator for social vr.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Want to contribute? Please check out the [issues](https://github.com/AtlasFoundation/AvatarCreator/issues), or submit a pull request.
-
 
 # Quick Start (library)
 ```bash
@@ -29,7 +28,7 @@ yarn run dev
 ```
 
 ### Attributions
-Originally based on the [three.js editor](https://threejs.org/editor/)
+Originally based on the [three.js editor](https://threejs.org/editor/), [OpenCharacterCreator](https://github.com/AngellXR/OpenCharacterCreator) and [AvatarCreator](https://github.com/AtlasFoundation/AvatarCreator).
 
 ## Contributors ✨
 
